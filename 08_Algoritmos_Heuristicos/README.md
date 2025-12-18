@@ -1,5 +1,7 @@
 # 8️⃣ Algoritmos Heurísticos (Heuristic Algorithms)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/08_Algoritmos_Heuristicos/algoritmos_heuristicos_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 Los **Algoritmos Heurísticos** son técnicas de resolución de problemas que buscan soluciones de buena calidad en tiempo razonable, sin garantizar la optimalidad. Son especialmente útiles para problemas NP-difíciles donde encontrar la solución óptima es computacionalmente intratable.

@@ -1,5 +1,7 @@
 # 2️⃣ Dividir y Conquistar (Divide and Conquer)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/02_Dividir_y_Conquistar/dividir_conquistar_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 **Dividir y Conquistar** es una estrategia algorítmica que descompone un problema en subproblemas más pequeños del mismo tipo, resuelve cada subproblema recursivamente y luego combina las soluciones para obtener la solución del problema original.

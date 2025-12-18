@@ -15,7 +15,11 @@ Este repositorio proporciona una guía completa para aprender y dominar las estr
 
 ## 📑 Contenido del Curso
 
+> 💡 **Cada módulo incluye un notebook interactivo de Google Colab** - ¡Haz clic en el badge para ejecutar ejemplos en tu navegador!
+
 ### [1️⃣ Fuerza Bruta](01_Fuerza_Bruta/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/01_Fuerza_Bruta/fuerza_bruta_ejemplo.ipynb)
+
 Estrategia que explora todas las posibles soluciones de forma exhaustiva.
 - Búsqueda exhaustiva
 - Generación de combinaciones y permutaciones
@@ -23,6 +27,8 @@ Estrategia que explora todas las posibles soluciones de forma exhaustiva.
 - **Complejidad:** Generalmente exponencial O(2ⁿ), O(n!)
 
 ### [2️⃣ Dividir y Conquistar](02_Dividir_y_Conquistar/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/02_Dividir_y_Conquistar/dividir_conquistar_ejemplo.ipynb)
+
 Descompone un problema en subproblemas más pequeños, los resuelve recursivamente y combina sus soluciones.
 - MergeSort y QuickSort
 - Búsqueda binaria
@@ -30,6 +36,8 @@ Descompone un problema en subproblemas más pequeños, los resuelve recursivamen
 - **Complejidad:** Frecuentemente O(n log n)
 
 ### [3️⃣ Programación Dinámica](03_Programacion_Dinamica/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/03_Programacion_Dinamica/programacion_dinamica_ejemplo.ipynb)
+
 Resuelve problemas complejos dividiéndolos en subproblemas superpuestos y almacenando sus soluciones.
 - Memoización (top-down)
 - Tabulación (bottom-up)
@@ -37,6 +45,8 @@ Resuelve problemas complejos dividiéndolos en subproblemas superpuestos y almac
 - **Complejidad:** Mejora exponencial a polinomial
 
 ### [4️⃣ Algoritmos Voraces (Greedy)](04_Algoritmos_Voraces/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/04_Algoritmos_Voraces/algoritmos_voraces_ejemplo.ipynb)
+
 Toma la mejor decisión local en cada paso con la esperanza de encontrar un óptimo global.
 - Selección de actividades
 - Algoritmo de Dijkstra
@@ -45,6 +55,8 @@ Toma la mejor decisión local en cada paso con la esperanza de encontrar un ópt
 - **Complejidad:** Generalmente O(n log n) o mejor
 
 ### [5️⃣ Backtracking (Vuelta Atrás)](05_Backtracking/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/05_Backtracking/backtracking_ejemplo.ipynb)
+
 Explora sistemáticamente todas las posibilidades mediante búsqueda con retroceso.
 - Problema de las N reinas
 - Sudoku
@@ -53,11 +65,15 @@ Explora sistemáticamente todas las posibilidades mediante búsqueda con retroce
 - **Complejidad:** Exponencial pero con poda
 
 ### [6️⃣ Ramificación y Acotación (Branch and Bound)](06_Ramificacion_y_Acotacion/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/06_Ramificacion_y_Acotacion/ramificacion_acotacion_ejemplo.ipynb)
+
 Explora el espacio de soluciones mediante un árbol y poda ramas que no pueden dar soluciones óptimas.
 - Problema del viajante (TSP)
 - Problema de la mochila 0/1
 - Asignación de tareas
 - **Complejidad:** Exponencial optimizado con cotas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/07_Algoritmos_Probabilisticos/algoritmos_probabilisticos_ejemplo.ipynb)
+
 
 ### [7️⃣ Algoritmos Probabilísticos](07_Algoritmos_Probabilisticos/README.md)
 Utilizan aleatoriedad para resolver problemas de manera eficiente.
@@ -66,6 +82,8 @@ Utilizan aleatoriedad para resolver problemas de manera eficiente.
 - QuickSort aleatorio
 - Test de primalidad
 - **Complejidad:** Variable, a menudo con garantías probabilísticas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/08_Algoritmos_Heuristicos/algoritmos_heuristicos_ejemplo.ipynb)
+
 
 ### [8️⃣ Algoritmos Heurísticos](08_Algoritmos_Heuristicos/README.md)
 Estrategias que encuentran soluciones aproximadas de buena calidad en tiempo razonable.

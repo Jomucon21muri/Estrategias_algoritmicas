@@ -1,5 +1,7 @@
 # 6️⃣ Ramificación y Acotación (Branch and Bound)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/06_Ramificacion_y_Acotacion/ramificacion_acotacion_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 **Ramificación y Acotación** (Branch and Bound) es una técnica algorítmica para problemas de optimización que explora sistemáticamente el espacio de soluciones mediante un árbol de decisión, podando ramas que no pueden conducir a soluciones óptimas.

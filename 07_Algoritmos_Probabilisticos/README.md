@@ -1,5 +1,7 @@
 # 7️⃣ Algoritmos Probabilísticos (Randomized Algorithms)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/07_Algoritmos_Probabilisticos/algoritmos_probabilisticos_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 Los **Algoritmos Probabilísticos** o **Aleatorios** utilizan números aleatorios como parte de su lógica para tomar decisiones. Estos algoritmos sacrifican determinismo por eficiencia o simplicidad.

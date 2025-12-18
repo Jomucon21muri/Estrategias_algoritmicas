@@ -1,5 +1,7 @@
 # 5️⃣ Backtracking (Vuelta Atrás)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/05_Backtracking/backtracking_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 **Backtracking** es una técnica algorítmica que construye candidatos a solución incrementalmente y abandona (retrocede) cuando determina que un candidato no puede llevar a una solución válida.

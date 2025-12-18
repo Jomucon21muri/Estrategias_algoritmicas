@@ -1,5 +1,7 @@
 # 1️⃣ Fuerza Bruta (Brute Force)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/01_Fuerza_Bruta/fuerza_bruta_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 La **Fuerza Bruta** es la estrategia algorítmica más simple e intuitiva. Consiste en explorar todas las posibles soluciones de un problema de manera exhaustiva hasta encontrar la solución correcta o la solución óptima.

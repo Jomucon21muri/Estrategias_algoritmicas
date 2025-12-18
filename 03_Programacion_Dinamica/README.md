@@ -1,5 +1,7 @@
 # 3️⃣ Programación Dinámica (Dynamic Programming)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/03_Programacion_Dinamica/programacion_dinamica_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 La **Programación Dinámica (DP)** es una técnica de optimización que resuelve problemas complejos dividiéndolos en subproblemas más simples y almacenando sus resultados para evitar cálculos redundantes. Es especialmente útil cuando los subproblemas se superponen.

@@ -1,5 +1,7 @@
 # 4️⃣ Algoritmos Voraces (Greedy Algorithms)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/04_Algoritmos_Voraces/algoritmos_voraces_ejemplo.ipynb)
+
 ## 📖 Introducción
 
 Los **Algoritmos Voraces** (Greedy) toman decisiones óptimas locales en cada paso con la esperanza de encontrar un óptimo global. A diferencia de la programación dinámica, no reconsideran decisiones previas.
