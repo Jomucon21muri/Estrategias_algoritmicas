@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jomucon21muri/Estrategias_algoritmicas/blob/main/01_Fuerza_Bruta/fuerza_bruta_ejemplo.ipynb)
 
-## 📖 Introducción
+## 📖 Introducción 
 
 La **Fuerza Bruta** es la estrategia algorítmica más simple e intuitiva. Consiste en explorar todas las posibles soluciones de un problema de manera exhaustiva hasta encontrar la solución correcta o la solución óptima.
 
@@ -13,7 +13,7 @@ La **Fuerza Bruta** es la estrategia algorítmica más simple e intuitiva. Consi
 - 📝 **Simplicidad:** Fácil de implementar y entender
 - 🔍 **Exhaustiva:** Explora todo el espacio de soluciones
 
-## 📊 Análisis de Complejidad
+## 📊 Análisis de complejidad
 
 | Tipo de Problema | Complejidad Temporal | Complejidad Espacial |
 |-----------------|---------------------|---------------------|
